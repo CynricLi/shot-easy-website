@@ -34,6 +34,6 @@ export const LANGUAGES_CODE = {
 const locals = Object.keys(LANGUAGES);
 
 export const CONFIG = {
-    website: 'https://photos.1forall.eu.cc',
+    website: 'https://photos.iforworlds.com',
     locals
 }
